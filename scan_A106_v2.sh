@@ -1,3 +1,5 @@
+# a compléter, ne fonctionne pas car je ne lis pas correctemetn les fichiers 
+
 nmap -oG /tmp/scantcp.txt 172.16.0.0/24
 nmap -oG /tmp/scanudp.txt -sU -F 172.16.0.0/24
 
